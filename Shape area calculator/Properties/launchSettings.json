@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Shape_area_calculator": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7261",
+      "launchBrowser": false
+    }
+  }
+}
